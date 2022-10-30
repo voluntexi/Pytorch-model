@@ -1,6 +1,5 @@
 # This is a simple demo for using RNN to predict the phrases sentiment in the dataset.
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
 from dataset import test_data, train_data
 from numpy import random
 
