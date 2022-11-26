@@ -1,9 +1,6 @@
-# RNN
- A simple RNN model to analyse phrase sentiment
+# Pytorch
 
-<hr>
+一些使用pytorch实现的模型
 
-**dataset.py** is a dataset of marking simple phrase and sentiment
 
-**main.py** is a  simple RNN model written only by **numpy**
 
